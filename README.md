@@ -1,1 +1,3 @@
-# como-comprar-polkadot-dot
+[**Cómo comprar Polkadot (DOT)**](https://topcryptoguide.com/como-comprar-polkadot-dot/)
+
+Este artículo explica **cómo comprar el token Polkadot (DOT)**, la criptomoneda nativa de la red Polkadot, un protocolo que facilita la interoperabilidad entre múltiples blockchains y soporta aplicaciones descentralizadas. Para adquirir DOT normalmente se requiere **abrir una cuenta en un exchange de criptomonedas compatible**, depositar fondos (fiat o cripto) mediante tarjeta, transferencia o métodos locales, y luego ejecutar la compra seleccionando pares como DOT/USDT o DOT/USD en la plataforma. El artículo también suele recomendar **verificar tarifas, usar billeteras seguras**, y considerar almacenar los tokens en un wallet propio tras la compra. :contentReference[oaicite:0]{index=0}
